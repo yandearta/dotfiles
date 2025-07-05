@@ -1,0 +1,11 @@
+{
+  "theme": "Atom One",
+  "selectedAuthType": "oauth-personal",
+  "preferredEditor": "vscode",
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    }
+  }
+}
